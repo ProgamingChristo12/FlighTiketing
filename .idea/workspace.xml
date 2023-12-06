@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="115caeef-a23d-452f-8e04-9160c24f5c35" name="Changes" comment="Initialization Project">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smk/Model/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smk/Model/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smk/Model/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smk/dao/BookingDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smk/dao/Dao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smk/dao/JdbcConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smk/dao/LocationDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smk/view/SearchBooking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smk/view/CreateBooking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smk/view/CreateBooking.java" afterDir="false" />
+    <list default="true" id="115caeef-a23d-452f-8e04-9160c24f5c35" name="Changes" comment="UAS FLIGHT TICETING USE JAVA">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smk/view/SearchBooking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smk/view/SearchBooking.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +23,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="MavenRunConfiguration" name="FlighTiketing [org.eclipse.jetty:jetty-maven-plugin:11.0.14:run]" />
+    </enabled-run-configurations>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -77,11 +71,20 @@
       <option name="project" value="LOCAL" />
       <updated>1700032640807</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="UAS FLIGHT TICETING USE JAVA">
+      <option name="closed" value="true" />
+      <created>1701247958187</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701247958188</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialization Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initialization Project" />
+    <MESSAGE value="UAS FLIGHT TICETING USE JAVA" />
+    <option name="LAST_COMMIT_MESSAGE" value="UAS FLIGHT TICETING USE JAVA" />
   </component>
 </project>
